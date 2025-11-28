@@ -1,5 +1,3 @@
-3. محتوى الملف:
-```batch
 @echo off
 echo 🎉 Hello from Jenkins Build!
 echo Building project: %PROJECT_NAME%
